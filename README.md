@@ -1,7 +1,6 @@
 ﻿# E-commerce Sales Analysis
+![E-commerce_Sales_Analysis_~_Python](https://user-images.githubusercontent.com/77911412/183322104-8b715f0e-4da3-4df4-ac95-0be1e186cdd3.png)
 
-https://img.shields.io/badge/Analysis-E--commerce%20sales%20analysis-greem
-https://img.shields.io/badge/<Analysis>-<MESSAGE>-<green>
 
 ## Table of Contents 
 *[*Technologies](#Technologies) 
@@ -11,7 +10,7 @@ https://img.shields.io/badge/<Analysis>-<MESSAGE>-<green>
 This E-commerce Sales Data Python Analysis that was done shows:
 1. Monthly Sales.
 2. Maximum order per city.
-3. Trend of sales Analyses to see maximum.
+3. Trend of sales Analyses to see maximum output.
 4. Most sold products.
 5. Most sold products together.
 
