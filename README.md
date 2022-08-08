@@ -1,6 +1,6 @@
 ﻿# E-commerce Sales Analysis
 
-?style=plastic&logo=appveyor
+https://img.shields.io/badge/Analysis-E--commerce%20sales%20analysis-greem
 
 ## Table of Contents 
 *[*Technologies](#Technologies) 
@@ -16,7 +16,6 @@ This E-commerce Sales Data Python Analysis that was done shows:
 
 ## Technologies
 Project is created with:
-
 * Pandas
 * Os
 * Numpy
