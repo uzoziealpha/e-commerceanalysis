@@ -1,6 +1,7 @@
 ﻿# E-commerce Sales Analysis
 
 https://img.shields.io/badge/Analysis-E--commerce%20sales%20analysis-greem
+https://img.shields.io/badge/<Analysis>-<MESSAGE>-<green>
 
 ## Table of Contents 
 *[*Technologies](#Technologies) 
