@@ -1,6 +1,6 @@
 ﻿# E-commerce Sales Analysis
 
-![Ansible Quality Score](https://img.shields.io/badge/<Python Analysis>-<E-Commerce Sales Data Analysis>-<COLOR>)
+?style=plastic&logo=appveyor
 
 ## Table of Contents 
 *[*Technologies](#Technologies) 
