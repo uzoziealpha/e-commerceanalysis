@@ -1,6 +1,6 @@
 ﻿# E-commerce Sales Analysis
 
-![Ansible Quality Score](https://img.shields.io/ansible/quality/analysis?color=purple&label=analysis&logo=e&style=plastic)
+![Ansible Quality Score](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
 
 ## Table of Contents 
 *[*Technologies](#Technologies) 
