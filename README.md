@@ -1,23 +1,24 @@
 ﻿# E-commerce Sales Analysis
 
-![Ansible Quality Score](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+![Ansible Quality Score](https://img.shields.io/badge/<Python Analysis>-<E-Commerce Sales Data Analysis>-<COLOR>)
 
 ## Table of Contents 
 *[*Technologies](#Technologies) 
 *[*Setup](#setup)
 
 ## General information
-This S&P 500  Python Analysis that was done shows:
-1. Daily return analysis.
-2. Closing Price of stock and volume trading.
-3. Price comparism for each stock
-4. value at risk analysis
+This E-commerce Sales Data Python Analysis that was done shows:
+1. Monthly Sales.
+2. Maximum order per city.
+3. Trend of sales Analyses to see maximum.
+4. Most sold products.
+5. Most sold products together.
 
 ## Technologies
 Project is created with:
-* Plotpy
+
 * Pandas
-* Seaborn
+* Os
 * Numpy
 * Matplotlib
 
